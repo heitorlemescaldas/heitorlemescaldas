@@ -27,9 +27,10 @@
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![IntelliJ IDEA](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fintellij-idea-logo-vector-svg-png-free-download-25905.html&psig=AOvVaw0-zAHW8yloz65kbc-0lMD8&ust=1707406973786000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjUj-PImYQDFQAAAAAdAAAAABAD)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
