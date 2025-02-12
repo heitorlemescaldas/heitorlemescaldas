@@ -1,13 +1,13 @@
-# Sobre mim
-- Olá, meu nome é Heitor Lemes Caldas. Estou cursando `Bacharelado em Engenharia de Software`
-- Estudo no `IFSP-Câmpus de São Carlos`
+# About Me
+- Hi, my name is Heitor Lemes Caldas. I'm pursuing a `Bachelor's Degree in Software Engineering`
+- I study at `IFSP - São Carlos Campus`
   
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=heitorlemescaldas&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Heitor Lemes Caldas github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=heitorlemescaldas&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Heitor Lemes Caldas GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlemescaldas&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
 </div>
 
-![Heitor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heitorlemescaldas&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)
+![Heitor's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heitorlemescaldas&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=heitorlemescaldas&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -19,11 +19,12 @@
 </div>
   
 
-### Main skills:
+### Main Skills:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -42,14 +43,18 @@
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge&logo=autodesk&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
-
-### Studying in this moment:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+### Currently Studying:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Teste de Software](https://img.shields.io/badge/Teste_de_Software-8A2BE2?style=for-the-badge&logo=selenium&logoColor=white)
-![Redes de Computadores](https://img.shields.io/badge/Redes_de_Computadores-1E90FF?style=for-the-badge&logo=cisco&logoColor=white)&nbsp;
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-1E90FF?style=for-the-badge&logo=cisco&logoColor=white)&nbsp;
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Programação para dispositivos móveis](https://img.shields.io/badge/Programação_para_Dispositivos_Móveis-008080?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+![Mobile Development](https://img.shields.io/badge/Mobile_Development-008080?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+![Software Testing](https://img.shields.io/badge/Software_Testing-8A2BE2?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
+
+### Languages:
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-green?style=for-the-badge)&nbsp;
+![English](https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge)&nbsp;
+![Spanish](https://img.shields.io/badge/Spanish-Intermediary-yellow?style=for-the-badge)&nbsp;
 
 <div align="center">
   <br><p align="center"><b>Visitors Count</b></p>  
