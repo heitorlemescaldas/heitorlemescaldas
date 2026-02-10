@@ -12,11 +12,6 @@ I am focused on building scalable and efficient distributed systems, with strong
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heitorlemescaldas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ### 🔗 Connect with me
 <div align="center">
   <a href="mailto:lemescaldasheitor@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
