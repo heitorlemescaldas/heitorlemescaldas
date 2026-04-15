@@ -14,7 +14,7 @@ I am focused on building scalable and efficient distributed systems, with strong
 
 ### 📄 Curriculum Vitae
 <div align="center">
-  <a href="[https://drive.google.com/file/d/1pxnaozeOLQKtqpypcCrxaCzDaCNir48x/view?usp=sharing](https://drive.google.com/file/d/1p-bSnEZ5pwZ9M2cYksQWTe0-Nidt4nJc/view?usp=sharing)" target="_blank">
+  <a href="https://drive.google.com/file/d/1p-bSnEZ5pwZ9M2cYksQWTe0-Nidt4nJc/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-0077B5?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </div>
